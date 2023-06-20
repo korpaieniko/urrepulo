@@ -1,2 +1,2 @@
-# urrepulo
-Űrrepülő modellezése
+# Űrrepülő modellezése
+<sub>Számítógépes grafika kurzusra</sub>
