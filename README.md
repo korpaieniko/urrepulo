@@ -1,4 +1,6 @@
 # Űrrepülő modellezése
 <sub>Számítógépes grafika kurzusra</sub>
 
-Blender + JavaScript
+Blender + JavaScript    
+     
+Animációkkal, lámpákkal és interaktív paraméterállítással
